@@ -9,8 +9,8 @@
 
 #### Code Climate
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/162c3f77a4a4707529c6/maintainability)](https://codeclimate.com/github/SpiritSaint/Square1/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/162c3f77a4a4707529c6/test_coverage)](https://codeclimate.com/github/SpiritSaint/Square1/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b5ae30ba00a2e18e087d/maintainability)](https://codeclimate.com/github/SpiritSaint/Game/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b5ae30ba00a2e18e087d/test_coverage)](https://codeclimate.com/github/SpiritSaint/Game/test_coverage)
 
 #### CodeCov
 
